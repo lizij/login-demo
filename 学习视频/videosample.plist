@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>description</key>
+		<string>示例课程</string>
+		<key>name</key>
+		<string>操作系统概念</string>
+		<key>image</key>
+		<string>icon-58.png</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>示例课程</string>
+		<key>name</key>
+		<string>鸟哥的Linux私房菜:基础学习篇</string>
+		<key>image</key>
+		<string>icon-58.png</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>示例课程</string>
+		<key>name</key>
+		<string>C++ Primer Plus</string>
+		<key>image</key>
+		<string>icon-58.png</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>示例课程</string>
+		<key>name</key>
+		<string>HTML5权威指南</string>
+		<key>image</key>
+		<string>icon-58.png</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>示例课程</string>
+		<key>name</key>
+		<string>信息简史</string>
+		<key>image</key>
+		<string>icon-58.png</string>
+	</dict>
+	<dict>
+		<key>description</key>
+		<string>示例课程</string>
+		<key>name</key>
+		<string>第一行代码</string>
+		<key>image</key>
+		<string>icon-58.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>iOS开发指南:从零基础到App Store上架</string>
+		<key>image</key>
+		<string>icon-58.png</string>
+		<key>description</key>
+		<string>示例课程</string>
+	</dict>
+</array>
+</plist>
